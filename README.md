@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rafael Santiago Ñontol Lozano</h1>
-<h3 align="center">A passionate backend developer from Peru, I specialize in server side development with Java using Spring Boot and frontend development with Angular</h3>
+<h3 align="center">A passionate backend developer from Peru, I studied Software Engineering in San Marcos University. I specialize in server side development with Java using Spring Boot and frontend development with Angular</h3>
 
 - 🔭 I’m currently working on a [Blog Application](https://github.com/Capdoo/spring-blogru-backend)
 
 - 🌱 I’m currently learning **Microservices in SpringBoot and NodeJs**
 
-- 👯 I’m looking to collaborate on [Pets Application](https://github.com/Capdoo/spring-mascotas-backend)
+- 👯 I’m looking to collaborate on a [Pets Application](https://github.com/Capdoo/spring-mascotas-backend) to find lost pets
 
 - 💬 Ask me about **Spring Boot, Angular and Linux.**
 
