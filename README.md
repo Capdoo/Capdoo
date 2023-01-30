@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael Santiago Ñontol Lozano</h1>
-<h3 align="center">A passionate backend developer from Peru</h3>
+<h3 align="center">A passionate backend developer from Peru, I specialize in server side development with java using Spring Boot and frontend development with Angular</h3>
 
-- 🔭 I’m currently working on [Backend development](using Spring Boot during one year)
+#- 🔭 I’m currently working on [Backend development](using Spring Boot during one year)
 
 - 🌱 I’m currently learning **Microservices in SpringBoot and NodeJs**
 
