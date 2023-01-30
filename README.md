@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Backend development](using Spring Boot during one year)
 
-- 🌱 I’m currently learning **NodeJs and Microservices in SpringBoot**
+- 🌱 I’m currently learning **Microservices in SpringBoot and NodeJs**
 
 - 👯 I’m looking to collaborate on [Pets Application](https://github.com/Capdoo/spring-mascotas-backend)
 
