@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rafael Santiago Ñontol Lozano</h1>
+<h1 align="center">Hi, I'm Rafael Santiago Ñontol Lozano</h1>
 <p align="center">A passionate backend developer from Peru, I studied Software Engineering in San Marcos University. I specialize in server side development with Java using Spring Boot and frontend development with Angular</p>
 
 - 🔭 I’m currently working on a [Blog Application](https://github.com/Capdoo/spring-blogru-backend)
