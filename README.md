@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://fb.com/SantiGibbons" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rafael ñontol lozano" height="30" width="40" /></a>
 <a href="https://instagram.com/rafaelnontol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafalenontol" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@rafaelnontol target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rafael unix" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@rafaelnontol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rafael unix" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user0801TO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rafael nl" height="30" width="40" /></a>
 </p>
 
