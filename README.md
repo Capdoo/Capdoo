@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Microservices in SpringBoot and NodeJs**
 
-- 👯 I’m looking to collaborate on a [Pets Application](https://github.com/Capdoo/spring-mascotas-backend) to find lost pets
+- 🌱 I’m looking to collaborate on a [Pets Application](https://github.com/Capdoo/spring-mascotas-backend) to find lost pets
 
 - 💬 Ask me about **Spring Boot, Angular and Linux.**
 
