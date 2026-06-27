@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working on a [Blog Application](https://github.com/Capdoo/spring-blogru-backend)
 
-- 🌱 I’m currently learning **Microservices in SpringBoot and NodeJs**
-
-- 🌱 I’m looking to collaborate on a [Pets Application](https://github.com/Capdoo/spring-mascotas-backend) to find lost pets
+- 🌱 I’m currently learning **Quarkus**
 
 - 💬 Ask me about **Spring Boot, Angular and Linux.**
 
-- 📫 How to reach me **rafael.nontol@unmsm.edu.pe**
+- 📫 How to reach me **rafaelnontol210@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
